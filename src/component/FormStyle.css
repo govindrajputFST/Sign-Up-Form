@@ -1,0 +1,29 @@
+.from{
+    border: 2px solid black;
+    width :80vh;
+    margin: auto;
+    margin-top: 20%;
+    text-align: center;
+    padding: 0px 30px 30px 30px;
+    
+    background-image: linear-gradient(to bottom right, violet, yellow);
+    box-shadow: -2px -2px 50px #888888 ;
+    box-shadow: 2px 2px 50px #888888;
+  
+}
+
+.size{
+    font-size: larger;
+    font-weight: 900;
+}
+input{
+    box-shadow: 2px 2px 5px #888888;
+    height:25px;
+}
+h1{
+    padding-bottom: 25px ;
+}
+.btn{
+    width: 150px;
+    height: 5vh;
+}
